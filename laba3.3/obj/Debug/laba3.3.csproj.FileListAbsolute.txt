@@ -1,0 +1,6 @@
+/Users/olyayarmolenko/Projects/laba3.3/laba3.3/bin/Debug/laba3.3.exe
+/Users/olyayarmolenko/Projects/laba3.3/laba3.3/bin/Debug/laba3.3.pdb
+/Users/olyayarmolenko/Projects/laba3.3/laba3.3/obj/Debug/laba3.3.csproj.AssemblyReference.cache
+/Users/olyayarmolenko/Projects/laba3.3/laba3.3/obj/Debug/laba3.3.csproj.CoreCompileInputs.cache
+/Users/olyayarmolenko/Projects/laba3.3/laba3.3/obj/Debug/laba3.3.exe
+/Users/olyayarmolenko/Projects/laba3.3/laba3.3/obj/Debug/laba3.3.pdb
